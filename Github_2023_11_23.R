@@ -41,5 +41,5 @@ use_github()
 #> your computer. To upload your commits to your remote GitHub repository you 
 #> need to Push (green arrow in the Git tab) these changes to your remote 
 #> repository on GitHub.
-#> 
-#> 
+ 
+#3.1.4 Delete branches

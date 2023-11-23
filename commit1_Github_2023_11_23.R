@@ -26,3 +26,4 @@
 #hint: or --ff-only on the command line to override the configured default per
 #hint: invocation.
 #fatal: Need to specify how to reconcile divergent branches.
+
