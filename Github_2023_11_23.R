@@ -36,3 +36,10 @@ use_github()
 #> become a purple R
 
 #2.7.2 Push and pull
+#>So far you are still working locally on your computer and you have not 
+#>changed the remote repository on GitHub. All the new code is still locally on
+#> your computer. To upload your commits to your remote GitHub repository you 
+#> need to Push (green arrow in the Git tab) these changes to your remote 
+#> repository on GitHub.
+#> 
+#> 
