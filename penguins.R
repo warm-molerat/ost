@@ -8,3 +8,4 @@ ggplot(penguins, aes(species, body_mass_g)) +
   labs(y = "Body mass [g]",
        x = "") +
   theme_bw()
+
